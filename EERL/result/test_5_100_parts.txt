@@ -1,0 +1,2271 @@
+1
+question===============================
+Give me all cosmonauts.
+facts===============================
+['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/nationality', 'http://dbpedia.org/ontology/nationality']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/countryWithFirstAstronaut"
+    ], 
+    "parts": [
+        "cosmonauts"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/countryWithFirstAstronaut"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.0
+recall===============================
+0.0
+2
+question===============================
+In which country does the Ganges start?
+facts===============================
+['http://dbpedia.org/ontology/sourceCountry']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/country", 
+        "http://dbpedia.org/property/riverSystem", 
+        "http://dbpedia.org/ontology/part", 
+        "http://dbpedia.org/ontology/leftTributary", 
+        "http://dbpedia.org/ontology/birthPlace"
+    ], 
+    "parts": [
+        "Ganges", 
+        "start", 
+        "country"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/country"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.0
+recall===============================
+0.0
+3
+question===============================
+When is the movie Worst Case Scenario going to be in cinemas in the Netherlands?
+facts===============================
+4
+question===============================
+Which German cities have more than 250000 inhabitants?
+facts===============================
+5
+question===============================
+Who was John F. Kennedy's vice president?
+facts===============================
+['http://dbpedia.org/ontology/vicePresident']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/vicePresident", 
+        "http://dbpedia.org/property/vicePresident", 
+        "http://dbpedia.org/property/president", 
+        "http://dbpedia.org/ontology/president", 
+        "http://dbpedia.org/ontology/successor", 
+        "http://dbpedia.org/ontology/party", 
+        "http://dbpedia.org/ontology/employer", 
+        "http://dbpedia.org/ontology/leader", 
+        "http://dbpedia.org/ontology/residence", 
+        "http://dbpedia.org/ontology/parent"
+    ], 
+    "parts": [
+        "John F. Kennedy", 
+        "vice president"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/vicePresident"
+    ]
+}
+Test===============================
+T
+precision===============================
+1.0
+recall===============================
+1.0
+6
+question===============================
+Who is the mayor of Berlin?
+facts===============================
+['http://dbpedia.org/ontology/leader']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/residence", 
+        "http://dbpedia.org/property/residence", 
+        "http://dbpedia.org/ontology/delegateMayor", 
+        "http://dbpedia.org/property/hqLocationCity", 
+        "http://dbpedia.org/ontology/birthPlace", 
+        "http://dbpedia.org/property/birthPlace", 
+        "http://dbpedia.org/property/deathPlace", 
+        "http://dbpedia.org/ontology/deathPlace"
+    ], 
+    "parts": [
+        "Berlin", 
+        "mayor"
+    ], 
+    "results": []
+}
+7
+question===============================
+How many students does the Free University in Amsterdam have?
+facts===============================
+['http://dbpedia.org/ontology/numberOfStudents']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/wikiPageRevisionID", 
+        "http://dbpedia.org/ontology/projectParticipant", 
+        "http://dbpedia.org/property/almaMater", 
+        "http://dbpedia.org/ontology/almaMater"
+    ], 
+    "parts": [
+        "Free University", 
+        "Amsterdam", 
+        "students"
+    ], 
+    "results": []
+}
+8
+question===============================
+What is the second highest mountain on Earth?
+facts===============================
+['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/elevation']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/property/date", 
+        "http://dbpedia.org/ontology/abstract"
+    ], 
+    "parts": [
+        "mountain", 
+        "second highest"
+    ], 
+    "results": []
+}
+9
+question===============================
+Give me all professional skateboarders from Sweden.
+facts===============================
+['http://dbpedia.org/ontology/occupation', 'http://dbpedia.org/ontology/birthPlace', 'http://dbpedia.org/ontology/birthPlace', 'http://dbpedia.org/ontology/country']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/property/sport", 
+        "http://dbpedia.org/property/countryCode", 
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf"
+    ], 
+    "parts": [
+        "professional", 
+        "skateboarder", 
+        "Sweden"
+    ], 
+    "results": [
+        "http://dbpedia.org/property/sport", 
+        "http://dbpedia.org/property/countryCode", 
+        "http://xmlns.com/foaf/0.1/isPrimaryTopicOf"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.0
+recall===============================
+0.0
+10
+question===============================
+When was Alberta admitted as province?
+facts===============================
+['http://dbpedia.org/property/admitancedate']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/property/state/province", 
+        "http://dbpedia.org/ontology/province", 
+        "http://dbpedia.org/property/province", 
+        "http://dbpedia.org/ontology/country", 
+        "http://dbpedia.org/property/country", 
+        "http://dbpedia.org/ontology/knownFor", 
+        "http://dbpedia.org/ontology/regionServed", 
+        "http://dbpedia.org/ontology/birthPlace", 
+        "http://dbpedia.org/property/birthPlace"
+    ], 
+    "parts": [
+        "Alberta", 
+        "admit", 
+        "province"
+    ], 
+    "results": []
+}
+11
+question===============================
+To which countries does the Himalayan mountain system extend?
+facts===============================
+['http://dbpedia.org/property/country']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/country", 
+        "http://dbpedia.org/property/parent", 
+        "http://dbpedia.org/ontology/livingPlace", 
+        "http://dbpedia.org/ontology/birthPlace"
+    ], 
+    "parts": [
+        "Himalayan mountain system", 
+        "extend", 
+        "country"
+    ], 
+    "results": []
+}
+12
+question===============================
+Give me a list of all bandleaders that play trumpet.
+facts===============================
+['http://dbpedia.org/ontology/occupation', 'http://dbpedia.org/ontology/instrument']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/leader", 
+        "http://dbpedia.org/property/instrument", 
+        "http://dbpedia.org/ontology/instrument", 
+        "http://dbpedia.org/ontology/gameArtist", 
+        "http://dbpedia.org/ontology/college", 
+        "http://dbpedia.org/property/drum"
+    ], 
+    "parts": [
+        "bandleader", 
+        "play", 
+        "trumpet"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/leader", 
+        "http://dbpedia.org/property/instrument"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.333333333333
+recall===============================
+0.5
+13
+question===============================
+Which countries have more than ten caves?
+facts===============================
+['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/location', 'http://dbpedia.org/ontology/location', 'http://dbpedia.org/ontology/country']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/country", 
+        "http://dbpedia.org/ontology/occupation", 
+        "http://dbpedia.org/ontology/hometown", 
+        "http://dbpedia.org/property/upperUnit"
+    ], 
+    "parts": [
+        "country", 
+        "cave", 
+        "more than ten"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/country"
+    ]
+}
+Test===============================
+T
+precision===============================
+1.0
+recall===============================
+1.0
+14
+question===============================
+What is the total amount of men and women serving in the FDNY?
+facts===============================
+['http://dbpedia.org/property/employes']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/property/subdivisionType", 
+        "http://dbpedia.org/ontology/country", 
+        "http://dbpedia.org/property/specialServiceUnit", 
+        "http://purl.org/dc/terms/subject", 
+        "http://dbpedia.org/property/staffing"
+    ], 
+    "parts": [
+        "total amount", 
+        "men", 
+        "women", 
+        "serve", 
+        "FDNY"
+    ], 
+    "results": []
+}
+15
+question===============================
+Who produces Orangina?
+facts===============================
+['http://dbpedia.org/ontology/product']
+results===============================
+{
+    "candidates": [
+        "http://purl.org/dc/terms/subject", 
+        "http://xmlns.com/foaf/0.1/name"
+    ], 
+    "parts": [
+        "produce", 
+        "Orangina"
+    ], 
+    "results": []
+}
+16
+question===============================
+Who is the Formula 1 race driver with the most races?
+facts===============================
+['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/races']
+results===============================
+{
+    "candidates": [], 
+    "parts": [
+        "Formula 1", 
+        "race driver", 
+        "races", 
+        "most"
+    ], 
+    "results": []
+}
+18
+question===============================
+Who is the youngest player in the Premier League?
+facts===============================
+['http://dbpedia.org/ontology/team', 'http://dbpedia.org/ontology/league', 'http://dbpedia.org/ontology/birthDate']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/league", 
+        "http://dbpedia.org/property/league", 
+        "http://dbpedia.org/ontology/team", 
+        "http://dbpedia.org/property/relegation", 
+        "http://dbpedia.org/ontology/participant", 
+        "http://dbpedia.org/ontology/playerSeason", 
+        "http://dbpedia.org/ontology/managerClub"
+    ], 
+    "parts": [
+        "player", 
+        "Premier League", 
+        "youngest"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/league", 
+        "http://dbpedia.org/property/league"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.666666666667
+recall===============================
+1.0
+19
+question===============================
+Give me all members of Prodigy.
+facts===============================
+['http://dbpedia.org/ontology/bandMember']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/employer", 
+        "http://dbpedia.org/ontology/president", 
+        "http://dbpedia.org/ontology/bandMember", 
+        "http://purl.org/dc/terms/subject", 
+        "http://dbpedia.org/ontology/associatedMusicalArtist", 
+        "http://dbpedia.org/ontology/associatedBand"
+    ], 
+    "parts": [
+        "member", 
+        "Prodigy"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/employer"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.0
+recall===============================
+0.0
+20
+question===============================
+What is the longest river?
+facts===============================
+['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/length', 'http://dbpedia.org/property/length']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/riverMouth", 
+        "http://dbpedia.org/ontology/thumbnail"
+    ], 
+    "parts": [
+        "river", 
+        "longest"
+    ], 
+    "results": []
+}
+21
+question===============================
+Does Breaking Bad have more episodes than Game of Thrones?
+facts===============================
+22
+question===============================
+Give me all cars that are produced in Germany.
+facts===============================
+['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/assembly', 'http://dbpedia.org/property/asembly', 'http://dbpedia.org/ontology/manufacturer', 'http://dbpedia.org/property/manufacturer', 'http://dbpedia.org/ontology/locationCountry', 'http://dbpedia.org/ontology/location']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/coach", 
+        "http://dbpedia.org/property/locationCountries", 
+        "http://dbpedia.org/property/giniChange", 
+        "http://dbpedia.org/property/significantAdvance"
+    ], 
+    "parts": [
+        "car", 
+        "produce", 
+        "Germany"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/coach", 
+        "http://dbpedia.org/property/locationCountries"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.0
+recall===============================
+0.0
+23
+question===============================
+What were the main discoveries of the Mars rover Curiosity?
+facts===============================
+24
+question===============================
+Give me all people that were born in Vienna and died in Berlin.
+facts===============================
+['http://dbpedia.org/ontology/birthPlace', 'http://dbpedia.org/ontology/deathPlace']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/property/hqLocationCity", 
+        "http://dbpedia.org/ontology/predecessor", 
+        "http://dbpedia.org/ontology/country", 
+        "http://dbpedia.org/ontology/occupation", 
+        "http://dbpedia.org/ontology/battle", 
+        "http://dbpedia.org/ontology/birthPlace", 
+        "http://dbpedia.org/property/birthPlace", 
+        "http://dbpedia.org/property/placeOfDeath", 
+        "http://dbpedia.org/ontology/hasInsidePlace", 
+        "http://dbpedia.org/ontology/mouthMountain"
+    ], 
+    "parts": [
+        "people", 
+        "born", 
+        "Vienna", 
+        "die", 
+        "Berlin"
+    ], 
+    "results": [
+        "http://dbpedia.org/property/hqLocationCity", 
+        "http://dbpedia.org/ontology/predecessor"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.0
+recall===============================
+0.0
+25
+question===============================
+Is proinsulin a protein?
+facts===============================
+['http://www.w3.org/1999/02/22-rdf-syntax-ns#type']
+results===============================
+{
+    "candidates": [
+        "http://purl.org/dc/terms/subject", 
+        "http://dbpedia.org/ontology/entrezgene"
+    ], 
+    "parts": [
+        "proinsulin", 
+        "protein"
+    ], 
+    "results": []
+}
+26
+question===============================
+How tall is Michael Jordan?
+facts===============================
+['http://dbpedia.org/ontology/height']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/property/number", 
+        "http://dbpedia.org/ontology/college"
+    ], 
+    "parts": [
+        "tall", 
+        "Michael Jordan"
+    ], 
+    "results": [
+        "http://dbpedia.org/property/number"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.0
+recall===============================
+0.0
+27
+question===============================
+What is the capital of Canada?
+facts===============================
+['http://dbpedia.org/ontology/capital']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/capital", 
+        "http://dbpedia.org/ontology/country", 
+        "http://dbpedia.org/ontology/part", 
+        "http://dbpedia.org/ontology/sportCountry", 
+        "http://dbpedia.org/property/deathPlace", 
+        "http://dbpedia.org/ontology/deathPlace", 
+        "http://dbpedia.org/ontology/largestCity", 
+        "http://dbpedia.org/ontology/restingPlace"
+    ], 
+    "parts": [
+        "capital", 
+        "Canada"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/capital"
+    ]
+}
+Test===============================
+T
+precision===============================
+1.0
+recall===============================
+1.0
+28
+question===============================
+Who is the governor of Wyoming?
+facts===============================
+['http://dbpedia.org/property/governor']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/property/governor", 
+        "http://dbpedia.org/property/region", 
+        "http://dbpedia.org/ontology/region", 
+        "http://dbpedia.org/ontology/country", 
+        "http://dbpedia.org/ontology/residence", 
+        "http://dbpedia.org/property/vicePresidentialNomineeState", 
+        "http://dbpedia.org/property/lieutenantGovernorAlt", 
+        "http://dbpedia.org/ontology/birthPlace", 
+        "http://dbpedia.org/property/birthPlace", 
+        "http://dbpedia.org/property/deathPlace"
+    ], 
+    "parts": [
+        "governor", 
+        "Wyoming"
+    ], 
+    "results": [
+        "http://dbpedia.org/property/governor"
+    ]
+}
+Test===============================
+T
+precision===============================
+1.0
+recall===============================
+1.0
+29
+question===============================
+Do Prince Harry and Prince William have the same parents?
+facts===============================
+['http://dbpedia.org/ontology/parent', 'http://dbpedia.org/ontology/parent']
+results===============================
+{
+    "candidates": [], 
+    "parts": [
+        "Prince Harry", 
+        "Prince William", 
+        "same", 
+        "parents"
+    ], 
+    "results": []
+}
+30
+question===============================
+Who was the father of Queen Elizabeth II?
+facts===============================
+['http://dbpedia.org/property/father']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/wikiPageRedirects", 
+        "http://dbpedia.org/ontology/commander"
+    ], 
+    "parts": [
+        "father", 
+        "Queen Elizabeth II"
+    ], 
+    "results": []
+}
+31
+question===============================
+Which U.S. state has been admitted latest?
+facts===============================
+['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/property/admitancedate']
+results===============================
+{
+    "candidates": [], 
+    "parts": [
+        "U.S. state", 
+        "admit", 
+        "last"
+    ], 
+    "results": []
+}
+32
+question===============================
+How many languages are spoken in Turkmenistan?
+facts===============================
+['http://dbpedia.org/ontology/language']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/locationCountry", 
+        "http://dbpedia.org/ontology/language"
+    ], 
+    "parts": [
+        "languages", 
+        "Turkmenistan"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/locationCountry"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.5
+recall===============================
+1.0
+33
+question===============================
+Sean Parnell is the governor of which U.S. state?
+facts===============================
+['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/property/governor']
+results===============================
+{
+    "candidates": [], 
+    "parts": [
+        "U.S. state", 
+        "governor", 
+        "Sean Parnell"
+    ], 
+    "results": []
+}
+34
+question===============================
+Give me all movies directed by Francis Ford Coppola.
+facts===============================
+['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/director']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/director", 
+        "http://dbpedia.org/ontology/starring", 
+        "http://dbpedia.org/ontology/award", 
+        "http://dbpedia.org/ontology/writer", 
+        "http://dbpedia.org/ontology/producer", 
+        "http://dbpedia.org/ontology/editing", 
+        "http://dbpedia.org/ontology/cinematography", 
+        "http://dbpedia.org/property/production", 
+        "http://dbpedia.org/ontology/birthPlace", 
+        "http://dbpedia.org/ontology/academicDiscipline"
+    ], 
+    "parts": [
+        "movie", 
+        "direct", 
+        "Francis Ford Coppola"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/director"
+    ]
+}
+Test===============================
+T
+precision===============================
+1.0
+recall===============================
+1.0
+35
+question===============================
+Give me all actors starring in movies directed by William Shatner.
+facts===============================
+['http://dbpedia.org/ontology/director', 'http://dbpedia.org/ontology/starring']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/starring", 
+        "http://dbpedia.org/property/actor", 
+        "http://dbpedia.org/ontology/producer", 
+        "http://dbpedia.org/ontology/director", 
+        "http://dbpedia.org/ontology/writer", 
+        "http://dbpedia.org/ontology/narrator", 
+        "http://dbpedia.org/ontology/author", 
+        "http://dbpedia.org/ontology/cinematography", 
+        "http://dbpedia.org/ontology/editing", 
+        "http://dbpedia.org/ontology/parent"
+    ], 
+    "parts": [
+        "actor", 
+        "starring", 
+        "movie", 
+        "direct", 
+        "William Shatner"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/starring", 
+        "http://dbpedia.org/property/actor"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.5
+recall===============================
+0.5
+36
+question===============================
+Are tree frogs a type of amphibian?
+facts===============================
+['http://dbpedia.org/ontology/clas']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/animal", 
+        "http://purl.org/dc/terms/subject"
+    ], 
+    "parts": [
+        "tree frog", 
+        "amphibian"
+    ], 
+    "results": []
+}
+37
+question===============================
+What is the birth name of Angela Merkel?
+facts===============================
+['http://dbpedia.org/property/birthName']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/property/birthName", 
+        "http://xmlns.com/foaf/0.1/name", 
+        "http://dbpedia.org/ontology/successor", 
+        "http://dbpedia.org/ontology/president", 
+        "http://dbpedia.org/property/small", 
+        "http://dbpedia.org/ontology/birthPlace"
+    ], 
+    "parts": [
+        "birth name", 
+        "Angela Merkel"
+    ], 
+    "results": [
+        "http://dbpedia.org/property/birthName"
+    ]
+}
+Test===============================
+T
+precision===============================
+1.0
+recall===============================
+1.0
+38
+question===============================
+Give me all Methodist politicians.
+facts===============================
+['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/religion']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/leader", 
+        "http://dbpedia.org/ontology/keyPerson"
+    ], 
+    "parts": [
+        "politician", 
+        "Methodist"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/leader"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.0
+recall===============================
+0.0
+39
+question===============================
+How often did Jane Fonda marry?
+facts===============================
+['http://dbpedia.org/ontology/spouse']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/spouse", 
+        "http://dbpedia.org/ontology/relative", 
+        "http://dbpedia.org/ontology/child", 
+        "http://dbpedia.org/ontology/parent", 
+        "http://dbpedia.org/ontology/partner", 
+        "http://dbpedia.org/ontology/president", 
+        "http://dbpedia.org/property/wordnet_type", 
+        "http://dbpedia.org/ontology/wikiPageExternalLink", 
+        "http://dbpedia.org/ontology/associateEditor", 
+        "http://dbpedia.org/ontology/birthPlace"
+    ], 
+    "parts": [
+        "Jane Fonda", 
+        "marry", 
+        "how often"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/spouse"
+    ]
+}
+Test===============================
+T
+precision===============================
+1.0
+recall===============================
+1.0
+40
+question===============================
+Give me all Australian nonprofit organizations.
+facts===============================
+['http://dbpedia.org/ontology/type', 'http://dbpedia.org/ontology/locationCountry', 'http://dbpedia.org/ontology/location', 'http://dbpedia.org/ontology/country']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/property/countryTs", 
+        "http://dbpedia.org/ontology/occupation"
+    ], 
+    "parts": [
+        "nonprofit organization", 
+        "Australia"
+    ], 
+    "results": [
+        "http://dbpedia.org/property/countryTs", 
+        "http://dbpedia.org/ontology/occupation"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.0
+recall===============================
+0.0
+41
+question===============================
+In which military conflicts did Lawrence of Arabia participate?
+facts===============================
+['http://dbpedia.org/ontology/battle']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/property/wordnet_type"
+    ], 
+    "parts": [
+        "Lawrence of Arabia", 
+        "military conflict"
+    ], 
+    "results": [
+        "http://dbpedia.org/property/wordnet_type"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.0
+recall===============================
+0.0
+42
+question===============================
+Who developed Minecraft?
+facts===============================
+['http://dbpedia.org/ontology/developer']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/property/small", 
+        "http://dbpedia.org/ontology/openingTheme"
+    ], 
+    "parts": [
+        "Minecraft", 
+        "develop"
+    ], 
+    "results": [
+        "http://dbpedia.org/property/small"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.0
+recall===============================
+0.0
+43
+question===============================
+What is the melting point of copper?
+facts===============================
+44
+question===============================
+Give me all sister cities of Brno.
+facts===============================
+45
+question===============================
+How many inhabitants does Maribor have?
+facts===============================
+['http://dbpedia.org/ontology/populationTotal']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/property/asianPlaceF", 
+        "http://dbpedia.org/property/unitPrecipitationDays"
+    ], 
+    "parts": [
+        "Maribor", 
+        "inhabitants"
+    ], 
+    "results": [
+        "http://dbpedia.org/property/asianPlaceF"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.0
+recall===============================
+0.0
+46
+question===============================
+Give me all companies in Munich.
+facts===============================
+['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/location', 'http://dbpedia.org/ontology/headquarter', 'http://dbpedia.org/ontology/locationCity']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/owner", 
+        "http://dbpedia.org/property/owner", 
+        "http://dbpedia.org/ontology/locationCity", 
+        "http://dbpedia.org/property/party", 
+        "http://dbpedia.org/property/locationCity"
+    ], 
+    "parts": [
+        "company", 
+        "Munich"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/owner", 
+        "http://dbpedia.org/property/owner", 
+        "http://dbpedia.org/ontology/locationCity"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.333333333333
+recall===============================
+0.333333333333
+47
+question===============================
+How tall is Claudia Schiffer?
+facts===============================
+['http://dbpedia.org/ontology/height']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/property/signature", 
+        "http://dbpedia.org/property/occupation"
+    ], 
+    "parts": [
+        "Claudia Schiffer", 
+        "tall"
+    ], 
+    "results": [
+        "http://dbpedia.org/property/signature"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.0
+recall===============================
+0.0
+48
+question===============================
+List all games by GMT.
+facts===============================
+['http://dbpedia.org/ontology/publisher']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/publisher", 
+        "http://dbpedia.org/ontology/developer", 
+        "http://dbpedia.org/ontology/wikiPageExternalLink", 
+        "http://dbpedia.org/ontology/roleInEvent", 
+        "http://dbpedia.org/ontology/wikiPageRevisionID", 
+        "http://dbpedia.org/ontology/currentWorldChampion"
+    ], 
+    "parts": [
+        "game", 
+        "GMT"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/publisher"
+    ]
+}
+Test===============================
+T
+precision===============================
+1.0
+recall===============================
+1.0
+49
+question===============================
+Who founded Intel?
+facts===============================
+['http://dbpedia.org/ontology/foundedBy']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/occupation", 
+        "http://dbpedia.org/ontology/employer", 
+        "http://dbpedia.org/ontology/foundedBy", 
+        "http://dbpedia.org/ontology/hometown", 
+        "http://dbpedia.org/property/studio", 
+        "http://dbpedia.org/ontology/knownFor", 
+        "http://dbpedia.org/ontology/keyPerson", 
+        "http://dbpedia.org/ontology/foundationPlace", 
+        "http://dbpedia.org/ontology/locationCity"
+    ], 
+    "parts": [
+        "Intel", 
+        "founded"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/occupation"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.0
+recall===============================
+0.0
+50
+question===============================
+Who is the husband of Amanda Palmer?
+facts===============================
+['http://dbpedia.org/property/spouse']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/spouse", 
+        "http://dbpedia.org/ontology/child", 
+        "http://dbpedia.org/ontology/president", 
+        "http://dbpedia.org/ontology/relation", 
+        "http://dbpedia.org/ontology/relative", 
+        "http://dbpedia.org/property/small", 
+        "http://dbpedia.org/ontology/associatedMusicalArtist", 
+        "http://dbpedia.org/ontology/associatedBand"
+    ], 
+    "parts": [
+        "Amanda Palmer", 
+        "husband"
+    ], 
+    "results": []
+}
+51
+question===============================
+Give me all breeds of the German Shepherd dog.
+facts===============================
+['http://dbpedia.org/property/bred']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/property/breed", 
+        "http://dbpedia.org/property/country"
+    ], 
+    "parts": [
+        "breed", 
+        "German Shepherd dog"
+    ], 
+    "results": []
+}
+52
+question===============================
+Which cities does the Weser flow through?
+facts===============================
+['http://dbpedia.org/ontology/city']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/city", 
+        "http://dbpedia.org/property/cityType", 
+        "http://dbpedia.org/ontology/country", 
+        "http://dbpedia.org/ontology/state", 
+        "http://dbpedia.org/ontology/district", 
+        "http://dbpedia.org/ontology/residence", 
+        "http://dbpedia.org/ontology/part", 
+        "http://dbpedia.org/property/riverSystem", 
+        "http://dbpedia.org/ontology/riverMouth", 
+        "http://dbpedia.org/ontology/deathPlace"
+    ], 
+    "parts": [
+        "Weser", 
+        "flow through", 
+        "city"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/city"
+    ]
+}
+Test===============================
+T
+precision===============================
+1.0
+recall===============================
+1.0
+53
+question===============================
+Which countries are connected by the Rhine?
+facts===============================
+['http://dbpedia.org/property/country', 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://www.w3.org/1999/02/22-rdf-syntax-ns#rdfs:label']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/country", 
+        "http://dbpedia.org/property/country", 
+        "http://dbpedia.org/ontology/hometown", 
+        "http://dbpedia.org/ontology/state", 
+        "http://dbpedia.org/property/state", 
+        "http://dbpedia.org/property/riverSystem", 
+        "http://dbpedia.org/ontology/birthPlace"
+    ], 
+    "parts": [
+        "Rhine", 
+        "country"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/country"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.5
+recall===============================
+1.0
+54
+question===============================
+Which professional surfers were born in Australia?
+facts===============================
+['http://dbpedia.org/ontology/occupation', 'http://dbpedia.org/ontology/birthPlace', 'http://dbpedia.org/ontology/birthPlace', 'http://dbpedia.org/ontology/country']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/country", 
+        "http://dbpedia.org/property/occupation", 
+        "http://dbpedia.org/ontology/occupation", 
+        "http://dbpedia.org/property/countryTs", 
+        "http://dbpedia.org/ontology/birthPlace", 
+        "http://dbpedia.org/property/birthPlace", 
+        "http://dbpedia.org/ontology/hasInsidePlace", 
+        "http://dbpedia.org/property/olympic", 
+        "http://dbpedia.org/property/deathPlace", 
+        "http://dbpedia.org/ontology/deathPlace"
+    ], 
+    "parts": [
+        "professional surfer", 
+        "born", 
+        "Australia"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/country", 
+        "http://dbpedia.org/property/occupation", 
+        "http://dbpedia.org/ontology/occupation", 
+        "http://dbpedia.org/property/countryTs"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.8
+recall===============================
+1.0
+55
+question===============================
+What is the average temperature on Hawaii?
+facts===============================
+56
+question===============================
+In which UK city are the headquarters of the MI6?
+facts===============================
+['http://dbpedia.org/ontology/headquarter', 'http://dbpedia.org/ontology/country']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/city", 
+        "http://dbpedia.org/ontology/headquarter", 
+        "http://dbpedia.org/ontology/location", 
+        "http://dbpedia.org/ontology/country", 
+        "http://dbpedia.org/ontology/capital", 
+        "http://dbpedia.org/ontology/locationCity", 
+        "http://dbpedia.org/ontology/hometown", 
+        "http://dbpedia.org/ontology/district", 
+        "http://dbpedia.org/ontology/part", 
+        "http://dbpedia.org/property/countryW"
+    ], 
+    "parts": [
+        "MI6", 
+        "headquarters", 
+        "city", 
+        "UK"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/city", 
+        "http://dbpedia.org/ontology/headquarter"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.5
+recall===============================
+0.5
+57
+question===============================
+Which other weapons did the designer of the Uzi develop?
+facts===============================
+58
+question===============================
+Who created Goofy?
+facts===============================
+['http://dbpedia.org/ontology/creator']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/creator", 
+        "http://dbpedia.org/property/publisher", 
+        "http://dbpedia.org/ontology/developer", 
+        "http://dbpedia.org/ontology/producer", 
+        "http://xmlns.com/foaf/0.1/givenName", 
+        "http://dbpedia.org/ontology/child", 
+        "http://dbpedia.org/ontology/deathCause", 
+        "http://dbpedia.org/ontology/executiveProducer"
+    ], 
+    "parts": [
+        "created", 
+        "Goofy"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/creator"
+    ]
+}
+Test===============================
+T
+precision===============================
+1.0
+recall===============================
+1.0
+59
+question===============================
+Was the Cuban Missile Crisis earlier than the Bay of Pigs Invasion?
+facts===============================
+60
+question===============================
+Give me all islands that belong to Japan.
+facts===============================
+['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/country']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/island", 
+        "http://dbpedia.org/property/countryAdminDivisionsTitle"
+    ], 
+    "parts": [
+        "islands", 
+        "Japan"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/island"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.0
+recall===============================
+0.0
+61
+question===============================
+Who invented the zipper?
+facts===============================
+62
+question===============================
+What is the ruling party in Lisbon?
+facts===============================
+['http://dbpedia.org/property/leaderParty']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/property/hqLocationCity", 
+        "http://dbpedia.org/property/free2Type", 
+        "http://dbpedia.org/ontology/birthPlace", 
+        "http://dbpedia.org/property/birthPlace"
+    ], 
+    "parts": [
+        "Lisbon", 
+        "ruling party"
+    ], 
+    "results": [
+        "http://dbpedia.org/property/hqLocationCity"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.0
+recall===============================
+0.0
+63
+question===============================
+What are the nicknames of San Francisco?
+facts===============================
+['http://dbpedia.org/property/nickname']
+results===============================
+{
+    "candidates": [
+        "http://xmlns.com/foaf/0.1/name", 
+        "http://dbpedia.org/ontology/leaderName", 
+        "http://dbpedia.org/property/studio"
+    ], 
+    "parts": [
+        "San Francisco", 
+        "nickname"
+    ], 
+    "results": []
+}
+64
+question===============================
+Which Greek goddesses dwelt on Mount Olympus?
+facts===============================
+['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/property/abode']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/property/wordnet_type", 
+        "http://dbpedia.org/ontology/restingPlacePosition", 
+        "http://dbpedia.org/ontology/livingPlace"
+    ], 
+    "parts": [
+        "Greek goddess", 
+        "dwell", 
+        "Mount Olympys"
+    ], 
+    "results": [
+        "http://dbpedia.org/property/wordnet_type"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.0
+recall===============================
+0.0
+65
+question===============================
+When were the Hells Angels founded?
+facts===============================
+['http://dbpedia.org/property/founded']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/property/founded", 
+        "http://dbpedia.org/ontology/occupation", 
+        "http://dbpedia.org/property/foundedBy", 
+        "http://dbpedia.org/ontology/knownFor"
+    ], 
+    "parts": [
+        "Hells Angels", 
+        "founded"
+    ], 
+    "results": [
+        "http://dbpedia.org/property/founded"
+    ]
+}
+Test===============================
+T
+precision===============================
+1.0
+recall===============================
+1.0
+66
+question===============================
+Give me all Apollo 14 astronauts.
+facts===============================
+['http://dbpedia.org/ontology/mission']
+results===============================
+{
+    "candidates": [
+        "http://purl.org/dc/terms/subject", 
+        "http://dbpedia.org/property/date"
+    ], 
+    "parts": [
+        "astronaut", 
+        "Apollo 14"
+    ], 
+    "results": [
+        "http://purl.org/dc/terms/subject"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.0
+recall===============================
+0.0
+67
+question===============================
+What is the time zone of Salt Lake City?
+facts===============================
+['http://dbpedia.org/property/timezone']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/property/city", 
+        "http://dbpedia.org/ontology/city", 
+        "http://dbpedia.org/ontology/timeZone", 
+        "http://dbpedia.org/ontology/lake", 
+        "http://dbpedia.org/property/location", 
+        "http://dbpedia.org/ontology/location", 
+        "http://dbpedia.org/ontology/country", 
+        "http://dbpedia.org/property/populationEst", 
+        "http://dbpedia.org/ontology/largestCity", 
+        "http://dbpedia.org/ontology/birthPlace"
+    ], 
+    "parts": [
+        "Salt Lake City", 
+        "time zone"
+    ], 
+    "results": []
+}
+68
+question===============================
+Which U.S. states are in the same time zone as Utah?
+facts===============================
+69
+question===============================
+Give me the capitals of all countries in Africa.
+facts===============================
+['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/capital']
+results===============================
+{
+    "candidates": [], 
+    "parts": [
+        "Africa", 
+        "country", 
+        "capital"
+    ], 
+    "results": []
+}
+70
+question===============================
+Give me a list of all lakes in Denmark.
+facts===============================
+['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/country', 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/lake", 
+        "http://dbpedia.org/ontology/country", 
+        "http://dbpedia.org/ontology/location", 
+        "http://dbpedia.org/property/location", 
+        "http://dbpedia.org/property/country", 
+        "http://dbpedia.org/ontology/sovereignCountry"
+    ], 
+    "parts": [
+        "lake", 
+        "Denmark"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/lake"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.5
+recall===============================
+1.0
+71
+question===============================
+How many missions does the Soyuz programme have?
+facts===============================
+['http://dbpedia.org/property/programe']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/property/programme", 
+        "http://dbpedia.org/ontology/thumbnail", 
+        "http://xmlns.com/foaf/0.1/depiction", 
+        "http://purl.org/dc/terms/subject"
+    ], 
+    "parts": [
+        "how many", 
+        "mission", 
+        "Soyuz programme"
+    ], 
+    "results": []
+}
+72
+question===============================
+Did Socrates influence Aristotle?
+facts===============================
+['http://dbpedia.org/ontology/influenced']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/mastersWins", 
+        "http://dbpedia.org/ontology/influenced", 
+        "http://dbpedia.org/ontology/president", 
+        "http://dbpedia.org/ontology/influencedBy", 
+        "http://dbpedia.org/property/influencedBy", 
+        "http://dbpedia.org/ontology/birthPlace", 
+        "http://dbpedia.org/ontology/deathPlace"
+    ], 
+    "parts": [
+        "Socrates", 
+        "influence", 
+        "Aristotle"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/mastersWins"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.5
+recall===============================
+1.0
+73
+question===============================
+Give me all Danish movies.
+facts===============================
+['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/country']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/award", 
+        "http://dbpedia.org/ontology/state", 
+        "http://dbpedia.org/property/thumb", 
+        "http://dbpedia.org/property/production", 
+        "http://dbpedia.org/ontology/knownFor", 
+        "http://dbpedia.org/property/knownFor", 
+        "http://dbpedia.org/ontology/musicComposer"
+    ], 
+    "parts": [
+        "movie", 
+        "Denmark"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/award"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.0
+recall===============================
+0.0
+74
+question===============================
+Give me all launch pads operated by NASA.
+facts===============================
+['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/operator']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/property/agency1Up", 
+        "http://dbpedia.org/property/workInstitutions", 
+        "http://dbpedia.org/ontology/board"
+    ], 
+    "parts": [
+        "launch pad", 
+        "operate", 
+        "NASA"
+    ], 
+    "results": [
+        "http://dbpedia.org/property/agency1Up"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.0
+recall===============================
+0.0
+75
+question===============================
+Which instruments does Cat Stevens play?
+facts===============================
+['http://dbpedia.org/ontology/instrument']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/instrument", 
+        "http://dbpedia.org/property/wordnet_type"
+    ], 
+    "parts": [
+        "Cat Stevens", 
+        "instrument"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/instrument"
+    ]
+}
+Test===============================
+T
+precision===============================
+1.0
+recall===============================
+1.0
+76
+question===============================
+Which ships were called after Benjamin Franklin?
+facts===============================
+['http://dbpedia.org/property/shipNamesake']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/property/after", 
+        "http://dbpedia.org/ontology/successor", 
+        "http://dbpedia.org/ontology/spouse", 
+        "http://dbpedia.org/ontology/relation", 
+        "http://dbpedia.org/ontology/predecessor", 
+        "http://dbpedia.org/property/predecessor", 
+        "http://dbpedia.org/ontology/child", 
+        "http://dbpedia.org/ontology/influenced", 
+        "http://dbpedia.org/ontology/parent", 
+        "http://dbpedia.org/ontology/president"
+    ], 
+    "parts": [
+        "ship", 
+        "called after", 
+        "Benjamin Franklin"
+    ], 
+    "results": [
+        "http://dbpedia.org/property/after"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.0
+recall===============================
+0.0
+77
+question===============================
+Who are the parents of the wife of Juan Carlos I?
+facts===============================
+['http://dbpedia.org/ontology/spouse', 'http://dbpedia.org/ontology/parent']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/spouse", 
+        "http://dbpedia.org/ontology/parent", 
+        "http://dbpedia.org/ontology/successor", 
+        "http://dbpedia.org/ontology/predecessor", 
+        "http://dbpedia.org/ontology/child", 
+        "http://dbpedia.org/ontology/president", 
+        "http://dbpedia.org/ontology/relation", 
+        "http://dbpedia.org/ontology/relative", 
+        "http://dbpedia.org/property/corType"
+    ], 
+    "parts": [
+        "Juan Carlos I", 
+        "wife", 
+        "parents"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/spouse", 
+        "http://dbpedia.org/ontology/parent"
+    ]
+}
+Test===============================
+T
+precision===============================
+1.0
+recall===============================
+1.0
+78
+question===============================
+How many employees does Google have?
+facts===============================
+['http://dbpedia.org/ontology/numberOfEmployees']
+results===============================
+{
+    "candidates": [
+        "http://xmlns.com/foaf/0.1/name", 
+        "http://dbpedia.org/property/name", 
+        "http://dbpedia.org/ontology/numberOfEmployees"
+    ], 
+    "parts": [
+        "Google", 
+        "employees"
+    ], 
+    "results": [
+        "http://xmlns.com/foaf/0.1/name"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.0
+recall===============================
+0.0
+79
+question===============================
+Did Tesla win a nobel prize in physics?
+facts===============================
+['http://dbpedia.org/ontology/award']
+results===============================
+{
+    "candidates": [
+        "http://purl.org/dc/terms/subject", 
+        "http://dbpedia.org/property/inventor", 
+        "http://dbpedia.org/property/wordnet_type", 
+        "http://dbpedia.org/ontology/deathPlace"
+    ], 
+    "parts": [
+        "Tesla", 
+        "nobel prize", 
+        "physics"
+    ], 
+    "results": [
+        "http://purl.org/dc/terms/subject"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.0
+recall===============================
+0.0
+80
+question===============================
+Give me all cities in New Jersey with more than 100000 inhabitants.
+facts===============================
+81
+question===============================
+Is Rita Wilson the wife of Tom Hanks?
+facts===============================
+['http://dbpedia.org/ontology/spouse']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/spouse", 
+        "http://dbpedia.org/ontology/parent", 
+        "http://dbpedia.org/ontology/child", 
+        "http://dbpedia.org/ontology/relation", 
+        "http://dbpedia.org/ontology/relative", 
+        "http://dbpedia.org/ontology/president", 
+        "http://dbpedia.org/ontology/voice"
+    ], 
+    "parts": [
+        "Rita Wilson", 
+        "wife", 
+        "Tom Hanks"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/spouse"
+    ]
+}
+Test===============================
+T
+precision===============================
+1.0
+recall===============================
+1.0
+82
+question===============================
+When was the Statue of Liberty built?
+facts===============================
+['http://dbpedia.org/property/beginingDate']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/location", 
+        "http://dbpedia.org/property/designation1Free2name", 
+        "http://dbpedia.org/property/wordnet_type", 
+        "http://dbpedia.org/ontology/basedOn", 
+        "http://dbpedia.org/ontology/restingPlace", 
+        "http://dbpedia.org/ontology/deathPlace"
+    ], 
+    "parts": [
+        "Statue of Liberty", 
+        "built"
+    ], 
+    "results": []
+}
+83
+question===============================
+In which U.S. state is Fort Knox located?
+facts===============================
+['http://dbpedia.org/property/location', 'http://dbpedia.org/ontology/country']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/location", 
+        "http://dbpedia.org/ontology/city", 
+        "http://dbpedia.org/ontology/country", 
+        "http://dbpedia.org/ontology/province", 
+        "http://dbpedia.org/ontology/district", 
+        "http://dbpedia.org/ontology/college", 
+        "http://dbpedia.org/ontology/part", 
+        "http://dbpedia.org/property/siteCityst", 
+        "http://dbpedia.org/ontology/routeEnd", 
+        "http://dbpedia.org/ontology/locatedInArea"
+    ], 
+    "parts": [
+        "Fort Knox", 
+        "located", 
+        "U.S. state"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/location"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.0
+recall===============================
+0.0
+84
+question===============================
+How many children did Benjamin Franklin have?
+facts===============================
+['http://dbpedia.org/ontology/child']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/child", 
+        "http://dbpedia.org/ontology/parent", 
+        "http://dbpedia.org/ontology/spouse", 
+        "http://dbpedia.org/ontology/predecessor", 
+        "http://dbpedia.org/ontology/relation", 
+        "http://dbpedia.org/property/predecessor", 
+        "http://dbpedia.org/ontology/successor", 
+        "http://dbpedia.org/property/date"
+    ], 
+    "parts": [
+        "Benjamin Franklin", 
+        "child"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/child"
+    ]
+}
+Test===============================
+T
+precision===============================
+1.0
+recall===============================
+1.0
+85
+question===============================
+When did Michael Jackson die?
+facts===============================
+['http://dbpedia.org/ontology/deathDate']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/creator", 
+        "http://dbpedia.org/ontology/deathPlace", 
+        "http://dbpedia.org/property/deathPlace", 
+        "http://dbpedia.org/property/customValue", 
+        "http://dbpedia.org/property/studio"
+    ], 
+    "parts": [
+        "Michael Jackson", 
+        "die"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/creator"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.0
+recall===============================
+0.0
+86
+question===============================
+Which Chess players died in the same place they were born in?
+facts===============================
+87
+question===============================
+List the children of Margaret Thatcher.
+facts===============================
+['http://dbpedia.org/ontology/child']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/child", 
+        "http://dbpedia.org/ontology/parent", 
+        "http://dbpedia.org/ontology/spouse", 
+        "http://dbpedia.org/ontology/predecessor", 
+        "http://dbpedia.org/ontology/relation", 
+        "http://dbpedia.org/property/predecessor", 
+        "http://dbpedia.org/ontology/successor", 
+        "http://dbpedia.org/property/wordnet_type"
+    ], 
+    "parts": [
+        "Margaret Thatcher", 
+        "child"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/child"
+    ]
+}
+Test===============================
+T
+precision===============================
+1.0
+recall===============================
+1.0
+88
+question===============================
+Who was called Frank The Tank?
+facts===============================
+89
+question===============================
+Was Margaret Thatcher a chemist?
+facts===============================
+['http://dbpedia.org/ontology/profession']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/keyPerson", 
+        "http://dbpedia.org/property/wordnet_type"
+    ], 
+    "parts": [
+        "Margaret Thatcher", 
+        "chemist"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/keyPerson"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.0
+recall===============================
+0.0
+90
+question===============================
+Was Marc Chagall a jew?
+facts===============================
+91
+question===============================
+Which museum exhibits The Scream by Munch?
+facts===============================
+['http://dbpedia.org/ontology/museum']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/museum", 
+        "http://purl.org/dc/terms/subject", 
+        "http://xmlns.com/foaf/0.1/name"
+    ], 
+    "parts": [
+        "museum", 
+        "Scream", 
+        "Munch"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/museum"
+    ]
+}
+Test===============================
+T
+precision===============================
+1.0
+recall===============================
+1.0
+92
+question===============================
+Give me all books by William Goldman with more than 300 pages.
+facts===============================
+93
+question===============================
+Which books by Kerouac were published by Viking Press?
+facts===============================
+['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/publisher', 'http://dbpedia.org/ontology/author']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/influenced", 
+        "http://dbpedia.org/ontology/writer", 
+        "http://dbpedia.org/ontology/occupation", 
+        "http://dbpedia.org/ontology/author", 
+        "http://dbpedia.org/property/allWriting", 
+        "http://dbpedia.org/ontology/hand", 
+        "http://dbpedia.org/ontology/product", 
+        "http://dbpedia.org/property/symbol", 
+        "http://dbpedia.org/ontology/notableWork"
+    ], 
+    "parts": [
+        "book", 
+        "Kerouac", 
+        "publish", 
+        "Viking Press"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/influenced", 
+        "http://dbpedia.org/ontology/writer"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.0
+recall===============================
+0.0
+94
+question===============================
+Give me a list of all American inventions.
+facts===============================
+['http://www.w3.org/1999/02/22-rdf-syntax-ns#type']
+results===============================
+{
+    "candidates": [], 
+    "parts": [
+        "American invention"
+    ], 
+    "results": []
+}
+95
+question===============================
+How high is the Mount Everest?
+facts===============================
+['http://dbpedia.org/ontology/elevation']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/property/highest", 
+        "http://dbpedia.org/property/wordnet_type"
+    ], 
+    "parts": [
+        "Mount Everest", 
+        "high"
+    ], 
+    "results": []
+}
+96
+question===============================
+Who created the comic Captain America?
+facts===============================
+['http://dbpedia.org/ontology/creator']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/property/notableWorks", 
+        "http://dbpedia.org/ontology/playerSeason", 
+        "http://dbpedia.org/property/villain"
+    ], 
+    "parts": [
+        "comic", 
+        "Captain America", 
+        "create"
+    ], 
+    "results": [
+        "http://dbpedia.org/property/notableWorks"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.0
+recall===============================
+0.0
+97
+question===============================
+How many people live in the capital of Australia?
+facts===============================
+['http://dbpedia.org/ontology/capital', 'http://dbpedia.org/ontology/populationTotal']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/capital", 
+        "http://dbpedia.org/property/countryTs", 
+        "http://dbpedia.org/ontology/country", 
+        "http://dbpedia.org/ontology/part", 
+        "http://dbpedia.org/ontology/livingPlace", 
+        "http://dbpedia.org/ontology/lowestMountain", 
+        "http://dbpedia.org/property/deathPlace", 
+        "http://dbpedia.org/ontology/deathPlace", 
+        "http://dbpedia.org/ontology/largestCity", 
+        "http://dbpedia.org/ontology/locationCountry"
+    ], 
+    "parts": [
+        "Australia", 
+        "capital", 
+        "people", 
+        "live"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/capital"
+    ]
+}
+Test===============================
+T
+precision===============================
+1.0
+recall===============================
+1.0
+98
+question===============================
+What is the largest city in Australia?
+facts===============================
+['http://dbpedia.org/ontology/largestCity']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/city", 
+        "http://dbpedia.org/ontology/country", 
+        "http://dbpedia.org/ontology/capital", 
+        "http://dbpedia.org/ontology/residence", 
+        "http://dbpedia.org/ontology/district", 
+        "http://dbpedia.org/ontology/part", 
+        "http://dbpedia.org/property/countryTs", 
+        "http://dbpedia.org/ontology/leader", 
+        "http://dbpedia.org/ontology/largestCity", 
+        "http://dbpedia.org/ontology/birthPlace"
+    ], 
+    "parts": [
+        "Australia", 
+        "largest city"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/city"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.0
+recall===============================
+0.0
+99
+question===============================
+Who composed the music for Harold and Maude?
+facts===============================
+['http://dbpedia.org/ontology/musicComposer']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/producer", 
+        "http://dbpedia.org/ontology/writer", 
+        "http://dbpedia.org/ontology/musicComposer", 
+        "http://dbpedia.org/property/country", 
+        "http://dbpedia.org/property/border"
+    ], 
+    "parts": [
+        "Harold and Maude", 
+        "compose", 
+        "music"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/producer"
+    ]
+}
+Test===============================
+F
+precision===============================
+0.0
+recall===============================
+0.0
+100
+question===============================
+Which films starring Clint Eastwood did he direct himself?
+facts===============================
+['http://dbpedia.org/ontology/director', 'http://dbpedia.org/ontology/starring']
+results===============================
+{
+    "candidates": [
+        "http://dbpedia.org/ontology/starring", 
+        "http://dbpedia.org/ontology/director", 
+        "http://dbpedia.org/ontology/producer", 
+        "http://dbpedia.org/ontology/writer", 
+        "http://dbpedia.org/ontology/cinematography", 
+        "http://dbpedia.org/ontology/editing", 
+        "http://dbpedia.org/ontology/birthPlace", 
+        "http://dbpedia.org/property/wordnet_type", 
+        "http://dbpedia.org/ontology/musicalBand", 
+        "http://dbpedia.org/ontology/musicComposer"
+    ], 
+    "parts": [
+        "film", 
+        "starring", 
+        "direct", 
+        "Clint Eastwood"
+    ], 
+    "results": [
+        "http://dbpedia.org/ontology/starring", 
+        "http://dbpedia.org/ontology/director"
+    ]
+}
+Test===============================
+T
+precision===============================
+1.0
+recall===============================
+1.0
+
+final num===============================
+59
+final sumPre===============================
+24.1333333333
+final sumRe===============================
+26.8333333333
+final sumF===============================
+25.0888888889
