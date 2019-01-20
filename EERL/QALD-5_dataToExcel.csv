@@ -1,0 +1,299 @@
+0,,,[],,
+1,['Give me all cosmonauts.'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/nationality', 'http://dbpedia.org/ontology/nationality']""]",[' [        "http://dbpedia.org/ontology/countryWithFirstAstronaut"    ]'],['0.0'],['0.0']
+2,['In which country does the Ganges start?'],["['http://dbpedia.org/ontology/sourceCountry']"],[' [        "http://dbpedia.org/ontology/country"    ]'],['0.0'],['0.0']
+3,['When is the movie Worst Case Scenario going to be in cinemas in the Netherlands?'],[],[],,
+4,['Which German cities have more than 250000 inhabitants?'],[],[],,
+5,["Who was John F. Kennedy's vice president?"],["['http://dbpedia.org/ontology/vicePresident']"],[' [        "http://dbpedia.org/ontology/vicePresident"    ]'],['1.0'],['1.0']
+6,['Who is the mayor of Berlin?'],["['http://dbpedia.org/ontology/leader']"],[],,
+7,['How many students does the Free University in Amsterdam have?'],["['http://dbpedia.org/ontology/numberOfStudents']"],[],,
+8,['What is the second highest mountain on Earth?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/elevation']""]",[],,
+9,['Give me all professional skateboarders from Sweden.'],"[""['http://dbpedia.org/ontology/occupation', 'http://dbpedia.org/ontology/birthPlace', 'http://dbpedia.org/ontology/birthPlace', 'http://dbpedia.org/ontology/country']""]","[' [        ""http://dbpedia.org/property/sport"",         ""http://dbpedia.org/property/countryCode"",         ""http://xmlns.com/foaf/0.1/isPrimaryTopicOf""    ]']",['0.0'],['0.0']
+10,['When was Alberta admitted as province?'],["['http://dbpedia.org/property/admitancedate']"],[],,
+11,['To which countries does the Himalayan mountain system extend?'],["['http://dbpedia.org/property/country']"],[],,
+12,['Give me a list of all bandleaders that play trumpet.'],"[""['http://dbpedia.org/ontology/occupation', 'http://dbpedia.org/ontology/instrument']""]","[' [        ""http://dbpedia.org/ontology/leader"",         ""http://dbpedia.org/property/instrument""    ]']",['0.333333333333'],['0.5']
+13,['Which countries have more than ten caves?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/location', 'http://dbpedia.org/ontology/location', 'http://dbpedia.org/ontology/country']""]",[' [        "http://dbpedia.org/ontology/country"    ]'],['1.0'],['1.0']
+14,['What is the total amount of men and women serving in the FDNY?'],["['http://dbpedia.org/property/employes']"],[],,
+15,['Who produces Orangina?'],["['http://dbpedia.org/ontology/product']"],[],,
+16,['Who is the Formula 1 race driver with the most races?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/races']""]",[],,
+18,['Who is the youngest player in the Premier League?'],"[""['http://dbpedia.org/ontology/team', 'http://dbpedia.org/ontology/league', 'http://dbpedia.org/ontology/birthDate']""]","[' [        ""http://dbpedia.org/ontology/league"",         ""http://dbpedia.org/property/league""    ]']",['0.666666666667'],['1.0']
+19,['Give me all members of Prodigy.'],["['http://dbpedia.org/ontology/bandMember']"],[' [        "http://dbpedia.org/ontology/employer"    ]'],['0.0'],['0.0']
+20,['What is the longest river?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/length', 'http://dbpedia.org/property/length']""]",[],,
+21,['Does Breaking Bad have more episodes than Game of Thrones?'],[],[],,
+22,['Give me all cars that are produced in Germany.'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/assembly', 'http://dbpedia.org/property/asembly', 'http://dbpedia.org/ontology/manufacturer', 'http://dbpedia.org/property/manufacturer', 'http://dbpedia.org/ontology/locationCountry', 'http://dbpedia.org/ontology/location']""]","[' [        ""http://dbpedia.org/ontology/coach"",         ""http://dbpedia.org/property/locationCountries""    ]']",['0.0'],['0.0']
+23,['What were the main discoveries of the Mars rover Curiosity?'],[],[],,
+24,['Give me all people that were born in Vienna and died in Berlin.'],"[""['http://dbpedia.org/ontology/birthPlace', 'http://dbpedia.org/ontology/deathPlace']""]","[' [        ""http://dbpedia.org/property/hqLocationCity"",         ""http://dbpedia.org/ontology/predecessor""    ]']",['0.0'],['0.0']
+25,['Is proinsulin a protein?'],["['http://www.w3.org/1999/02/22-rdf-syntax-ns#type']"],[],,
+26,['How tall is Michael Jordan?'],["['http://dbpedia.org/ontology/height']"],[' [        "http://dbpedia.org/property/number"    ]'],['0.0'],['0.0']
+27,['What is the capital of Canada?'],["['http://dbpedia.org/ontology/capital']"],[' [        "http://dbpedia.org/ontology/capital"    ]'],['1.0'],['1.0']
+28,['Who is the governor of Wyoming?'],["['http://dbpedia.org/property/governor']"],[' [        "http://dbpedia.org/property/governor"    ]'],['1.0'],['1.0']
+29,['Do Prince Harry and Prince William have the same parents?'],"[""['http://dbpedia.org/ontology/parent', 'http://dbpedia.org/ontology/parent']""]",[],,
+30,['Who was the father of Queen Elizabeth II?'],["['http://dbpedia.org/property/father']"],[],,
+31,['Which U.S. state has been admitted latest?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/property/admitancedate']""]",[],,
+32,['How many languages are spoken in Turkmenistan?'],["['http://dbpedia.org/ontology/language']"],[' [        "http://dbpedia.org/ontology/locationCountry"    ]'],['0.5'],['1.0']
+33,['Sean Parnell is the governor of which U.S. state?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/property/governor']""]",[],,
+34,['Give me all movies directed by Francis Ford Coppola.'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/director']""]",[' [        "http://dbpedia.org/ontology/director"    ]'],['1.0'],['1.0']
+35,['Give me all actors starring in movies directed by William Shatner.'],"[""['http://dbpedia.org/ontology/director', 'http://dbpedia.org/ontology/starring']""]","[' [        ""http://dbpedia.org/ontology/starring"",         ""http://dbpedia.org/property/actor""    ]']",['0.5'],['0.5']
+36,['Are tree frogs a type of amphibian?'],["['http://dbpedia.org/ontology/clas']"],[],,
+37,['What is the birth name of Angela Merkel?'],["['http://dbpedia.org/property/birthName']"],[' [        "http://dbpedia.org/property/birthName"    ]'],['1.0'],['1.0']
+38,['Give me all Methodist politicians.'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/religion']""]",[' [        "http://dbpedia.org/ontology/leader"    ]'],['0.0'],['0.0']
+39,['How often did Jane Fonda marry?'],["['http://dbpedia.org/ontology/spouse']"],[' [        "http://dbpedia.org/ontology/spouse"    ]'],['1.0'],['1.0']
+40,['Give me all Australian nonprofit organizations.'],"[""['http://dbpedia.org/ontology/type', 'http://dbpedia.org/ontology/locationCountry', 'http://dbpedia.org/ontology/location', 'http://dbpedia.org/ontology/country']""]","[' [        ""http://dbpedia.org/property/countryTs"",         ""http://dbpedia.org/ontology/occupation""    ]']",['0.0'],['0.0']
+41,['In which military conflicts did Lawrence of Arabia participate?'],["['http://dbpedia.org/ontology/battle']"],[' [        "http://dbpedia.org/property/wordnet_type"    ]'],['0.0'],['0.0']
+42,['Who developed Minecraft?'],["['http://dbpedia.org/ontology/developer']"],[' [        "http://dbpedia.org/property/small"    ]'],['0.0'],['0.0']
+43,['What is the melting point of copper?'],[],[],,
+44,['Give me all sister cities of Brno.'],[],[],,
+45,['How many inhabitants does Maribor have?'],["['http://dbpedia.org/ontology/populationTotal']"],[' [        "http://dbpedia.org/property/asianPlaceF"    ]'],['0.0'],['0.0']
+46,['Give me all companies in Munich.'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/location', 'http://dbpedia.org/ontology/headquarter', 'http://dbpedia.org/ontology/locationCity']""]","[' [        ""http://dbpedia.org/ontology/owner"",         ""http://dbpedia.org/property/owner"",         ""http://dbpedia.org/ontology/locationCity""    ]']",['0.333333333333'],['0.333333333333']
+47,['How tall is Claudia Schiffer?'],["['http://dbpedia.org/ontology/height']"],[' [        "http://dbpedia.org/property/signature"    ]'],['0.0'],['0.0']
+48,['List all games by GMT.'],["['http://dbpedia.org/ontology/publisher']"],[' [        "http://dbpedia.org/ontology/publisher"    ]'],['1.0'],['1.0']
+49,['Who founded Intel?'],["['http://dbpedia.org/ontology/foundedBy']"],[' [        "http://dbpedia.org/ontology/occupation"    ]'],['0.0'],['0.0']
+50,['Who is the husband of Amanda Palmer?'],["['http://dbpedia.org/property/spouse']"],[],,
+51,['Give me all breeds of the German Shepherd dog.'],["['http://dbpedia.org/property/bred']"],[],,
+52,['Which cities does the Weser flow through?'],["['http://dbpedia.org/ontology/city']"],[' [        "http://dbpedia.org/ontology/city"    ]'],['1.0'],['1.0']
+53,['Which countries are connected by the Rhine?'],"[""['http://dbpedia.org/property/country', 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://www.w3.org/1999/02/22-rdf-syntax-ns#rdfs:label']""]",[' [        "http://dbpedia.org/ontology/country"    ]'],['0.5'],['1.0']
+54,['Which professional surfers were born in Australia?'],"[""['http://dbpedia.org/ontology/occupation', 'http://dbpedia.org/ontology/birthPlace', 'http://dbpedia.org/ontology/birthPlace', 'http://dbpedia.org/ontology/country']""]","[' [        ""http://dbpedia.org/ontology/country"",         ""http://dbpedia.org/property/occupation"",         ""http://dbpedia.org/ontology/occupation"",         ""http://dbpedia.org/property/countryTs""    ]']",['0.8'],['1.0']
+55,['What is the average temperature on Hawaii?'],[],[],,
+56,['In which UK city are the headquarters of the MI6?'],"[""['http://dbpedia.org/ontology/headquarter', 'http://dbpedia.org/ontology/country']""]","[' [        ""http://dbpedia.org/ontology/city"",         ""http://dbpedia.org/ontology/headquarter""    ]']",['0.5'],['0.5']
+57,['Which other weapons did the designer of the Uzi develop?'],[],[],,
+58,['Who created Goofy?'],["['http://dbpedia.org/ontology/creator']"],[' [        "http://dbpedia.org/ontology/creator"    ]'],['1.0'],['1.0']
+59,['Was the Cuban Missile Crisis earlier than the Bay of Pigs Invasion?'],[],[],,
+60,['Give me all islands that belong to Japan.'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/country']""]",[' [        "http://dbpedia.org/ontology/island"    ]'],['0.0'],['0.0']
+61,['Who invented the zipper?'],[],[],,
+62,['What is the ruling party in Lisbon?'],["['http://dbpedia.org/property/leaderParty']"],[' [        "http://dbpedia.org/property/hqLocationCity"    ]'],['0.0'],['0.0']
+63,['What are the nicknames of San Francisco?'],["['http://dbpedia.org/property/nickname']"],[],,
+64,['Which Greek goddesses dwelt on Mount Olympus?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/property/abode']""]",[' [        "http://dbpedia.org/property/wordnet_type"    ]'],['0.0'],['0.0']
+65,['When were the Hells Angels founded?'],["['http://dbpedia.org/property/founded']"],[' [        "http://dbpedia.org/property/founded"    ]'],['1.0'],['1.0']
+66,['Give me all Apollo 14 astronauts.'],["['http://dbpedia.org/ontology/mission']"],[' [        "http://purl.org/dc/terms/subject"    ]'],['0.0'],['0.0']
+67,['What is the time zone of Salt Lake City?'],["['http://dbpedia.org/property/timezone']"],[],,
+68,['Which U.S. states are in the same time zone as Utah?'],[],[],,
+69,['Give me the capitals of all countries in Africa.'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/capital']""]",[],,
+70,['Give me a list of all lakes in Denmark.'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/country', 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type']""]",[' [        "http://dbpedia.org/ontology/lake"    ]'],['0.5'],['1.0']
+71,['How many missions does the Soyuz programme have?'],["['http://dbpedia.org/property/programe']"],[],,
+72,['Did Socrates influence Aristotle?'],["['http://dbpedia.org/ontology/influenced']"],[' [        "http://dbpedia.org/ontology/mastersWins"    ]'],['0.5'],['1.0']
+73,['Give me all Danish movies.'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/country']""]",[' [        "http://dbpedia.org/ontology/award"    ]'],['0.0'],['0.0']
+74,['Give me all launch pads operated by NASA.'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/operator']""]",[' [        "http://dbpedia.org/property/agency1Up"    ]'],['0.0'],['0.0']
+75,['Which instruments does Cat Stevens play?'],["['http://dbpedia.org/ontology/instrument']"],[' [        "http://dbpedia.org/ontology/instrument"    ]'],['1.0'],['1.0']
+76,['Which ships were called after Benjamin Franklin?'],["['http://dbpedia.org/property/shipNamesake']"],[' [        "http://dbpedia.org/property/after"    ]'],['0.0'],['0.0']
+77,['Who are the parents of the wife of Juan Carlos I?'],"[""['http://dbpedia.org/ontology/spouse', 'http://dbpedia.org/ontology/parent']""]","[' [        ""http://dbpedia.org/ontology/spouse"",         ""http://dbpedia.org/ontology/parent""    ]']",['1.0'],['1.0']
+78,['How many employees does Google have?'],["['http://dbpedia.org/ontology/numberOfEmployees']"],[' [        "http://xmlns.com/foaf/0.1/name"    ]'],['0.0'],['0.0']
+79,['Did Tesla win a nobel prize in physics?'],["['http://dbpedia.org/ontology/award']"],[' [        "http://purl.org/dc/terms/subject"    ]'],['0.0'],['0.0']
+80,['Give me all cities in New Jersey with more than 100000 inhabitants.'],[],[],,
+81,['Is Rita Wilson the wife of Tom Hanks?'],["['http://dbpedia.org/ontology/spouse']"],[' [        "http://dbpedia.org/ontology/spouse"    ]'],['1.0'],['1.0']
+82,['When was the Statue of Liberty built?'],["['http://dbpedia.org/property/beginingDate']"],[],,
+83,['In which U.S. state is Fort Knox located?'],"[""['http://dbpedia.org/property/location', 'http://dbpedia.org/ontology/country']""]",[' [        "http://dbpedia.org/ontology/location"    ]'],['0.0'],['0.0']
+84,['How many children did Benjamin Franklin have?'],["['http://dbpedia.org/ontology/child']"],[' [        "http://dbpedia.org/ontology/child"    ]'],['1.0'],['1.0']
+85,['When did Michael Jackson die?'],["['http://dbpedia.org/ontology/deathDate']"],[' [        "http://dbpedia.org/ontology/creator"    ]'],['0.0'],['0.0']
+86,['Which Chess players died in the same place they were born in?'],[],[],,
+87,['List the children of Margaret Thatcher.'],["['http://dbpedia.org/ontology/child']"],[' [        "http://dbpedia.org/ontology/child"    ]'],['1.0'],['1.0']
+88,['Who was called Frank The Tank?'],[],[],,
+89,['Was Margaret Thatcher a chemist?'],["['http://dbpedia.org/ontology/profession']"],[' [        "http://dbpedia.org/ontology/keyPerson"    ]'],['0.0'],['0.0']
+90,['Was Marc Chagall a jew?'],[],[],,
+91,['Which museum exhibits The Scream by Munch?'],["['http://dbpedia.org/ontology/museum']"],[' [        "http://dbpedia.org/ontology/museum"    ]'],['1.0'],['1.0']
+92,['Give me all books by William Goldman with more than 300 pages.'],[],[],,
+93,['Which books by Kerouac were published by Viking Press?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/publisher', 'http://dbpedia.org/ontology/author']""]","[' [        ""http://dbpedia.org/ontology/influenced"",         ""http://dbpedia.org/ontology/writer""    ]']",['0.0'],['0.0']
+94,['Give me a list of all American inventions.'],["['http://www.w3.org/1999/02/22-rdf-syntax-ns#type']"],[],,
+95,['How high is the Mount Everest?'],["['http://dbpedia.org/ontology/elevation']"],[],,
+96,['Who created the comic Captain America?'],["['http://dbpedia.org/ontology/creator']"],[' [        "http://dbpedia.org/property/notableWorks"    ]'],['0.0'],['0.0']
+97,['How many people live in the capital of Australia?'],"[""['http://dbpedia.org/ontology/capital', 'http://dbpedia.org/ontology/populationTotal']""]",[' [        "http://dbpedia.org/ontology/capital"    ]'],['1.0'],['1.0']
+98,['What is the largest city in Australia?'],["['http://dbpedia.org/ontology/largestCity']"],[' [        "http://dbpedia.org/ontology/city"    ]'],['0.0'],['0.0']
+99,['Who composed the music for Harold and Maude?'],["['http://dbpedia.org/ontology/musicComposer']"],[' [        "http://dbpedia.org/ontology/producer"    ]'],['0.0'],['0.0']
+100,['Which films starring Clint Eastwood did he direct himself?'],"[""['http://dbpedia.org/ontology/director', 'http://dbpedia.org/ontology/starring']""]","[' [        ""http://dbpedia.org/ontology/starring"",         ""http://dbpedia.org/ontology/director""    ]']",['1.0'],['1.0']
+101,['In which city was the former Dutch queen Juliana buried?'],["['http://dbpedia.org/ontology/restingPlace']"],[],,
+102,['Is Egypts largest city also its capital?'],[],[],,
+103,['Where is the residence of the prime minister of Spain?'],["['http://dbpedia.org/property/residence']"],[' [        "http://dbpedia.org/property/residence"    ]'],['1.0'],['1.0']
+104,['Which U.S. state has the abbreviation MN?'],[],[],,
+105,['Show me all songs from Bruce Springsteen released between 1980 and 1990.'],[],[],,
+106,['Which movies did Kurosawa direct?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/director']""]",[' [        "http://dbpedia.org/ontology/director"    ]'],['1.0'],['1.0']
+107,['What is the founding year of the brewery that produces Pilsner Urquell?'],"[""['http://dbpedia.org/property/brewery', 'http://dbpedia.org/property/foundation']""]",[],,
+108,['Who wrote the lyrics for the Polish national anthem?'],"[""['http://dbpedia.org/ontology/anthem', 'http://dbpedia.org/property/author']""]",[' [        "http://dbpedia.org/ontology/anthem"    ]'],['1.0'],['1.0']
+109,['Give me all B-sides of the Ramones.'],"[""['http://dbpedia.org/ontology/musicalArtist', 'http://dbpedia.org/ontology/bSide']""]",[' [        "http://dbpedia.org/property/wordnet_type"    ]'],['0.0'],['0.0']
+110,['Who painted The Storm on the Sea of Galilee?'],["['http://dbpedia.org/ontology/author']"],[],,
+111,['Which country does the creator of Miffy come from?'],"[""['http://dbpedia.org/ontology/creator', 'http://dbpedia.org/ontology/nationality']""]",[' [        "http://dbpedia.org/ontology/creator"    ]'],['1.0'],['1.0']
+112,['For which label did Elvis record his first album?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/artist', 'http://dbpedia.org/ontology/releaseDate', 'http://dbpedia.org/ontology/recordLabel']""]",[' [        "http://dbpedia.org/ontology/producer"    ]'],['0.5'],['1.0']
+113,['Give me the birthdays of all actors of the television show Charmed.'],"[""['http://dbpedia.org/ontology/starring', 'http://dbpedia.org/ontology/birthDate']""]",[' [        "http://dbpedia.org/property/country"    ]'],['0.0'],['0.0']
+114,['How many employees does IBM have?'],["['http://dbpedia.org/ontology/numberOfEmployees']"],[' [        "http://dbpedia.org/ontology/numberOfEmployees"    ]'],['1.0'],['1.0']
+115,['Which states border Illinois?'],["['http://dbpedia.org/property/borderingstates']"],[' [        "http://dbpedia.org/ontology/state"    ]'],['0.0'],['0.0']
+116,['In which country is the Limerick Lake?'],["['http://dbpedia.org/ontology/country']"],[' [        "http://dbpedia.org/ontology/lake"    ]'],['0.5'],['1.0']
+117,['Which television shows were created by John Cleese?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/creator']""]",[' [        "http://dbpedia.org/ontology/occupation"    ]'],['0.0'],['0.0']
+118,['Which mountain is the highest after the Annapurna?'],[],[],,
+119,['In which films directed by Garry Marshall was Julia Roberts starring?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/starring', 'http://dbpedia.org/ontology/director']""]","[' [        ""http://dbpedia.org/ontology/starring"",         ""http://dbpedia.org/ontology/producer""    ]']",['0.666666666667'],['1.0']
+120,['Which bridges are of the same type as the Manhattan Bridge?'],[],[],,
+121,['Was U.S. president Jackson involved in a war?'],["['http://dbpedia.org/ontology/battle']"],[' [        "http://dbpedia.org/property/president"    ]'],['0.0'],['0.0']
+122,['Give me all communist countries.'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/governmentType', 'http://dbpedia.org/ontology/governmentType']""]","[' [        ""http://dbpedia.org/ontology/country"",         ""http://dbpedia.org/property/country""    ]']",['0.0'],['0.0']
+123,['Which awards did Douglas Hofstadter win?'],["['http://dbpedia.org/ontology/award']"],[' [        "http://dbpedia.org/ontology/award"    ]'],['1.0'],['1.0']
+124,['Who is the daughter of Robert Kennedy married to?'],"[""['http://dbpedia.org/ontology/child', 'http://dbpedia.org/ontology/spouse']""]","[' [        ""http://dbpedia.org/ontology/child"",         ""http://dbpedia.org/ontology/spouse""    ]']",['1.0'],['1.0']
+125,['Which U.S. state has the highest population density?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/property/densityrank']""]",[],,
+126,['What is the currency of the Czech Republic?'],["['http://dbpedia.org/ontology/currency']"],[' [        "http://dbpedia.org/ontology/currency"    ]'],['1.0'],['1.0']
+127,['Which countries adopted the Euro?'],[],[],,
+128,['What is the area code of Berlin?'],["['http://dbpedia.org/ontology/areaCode']"],[' [        "http://dbpedia.org/ontology/areaCode"    ]'],['1.0'],['1.0']
+129,['Which countries have more than two official languages?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/officialLanguage']""]",[],,
+130,['Who is the owner of Rolls-Royce?'],["['http://dbpedia.org/ontology/owner']"],[' [        "http://dbpedia.org/ontology/owner"    ]'],['1.0'],['1.0']
+131,['Through which countries does the Yenisei river flow?'],["['http://dbpedia.org/ontology/country']"],[],,
+132,['When did Latvia join the EU?'],["['http://dbpedia.org/property/acesioneudate']"],[],,
+133,['Which monarchs were married to a German?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/spouse', 'http://dbpedia.org/ontology/birthPlace', 'http://dbpedia.org/ontology/country']""]",[' [        "http://dbpedia.org/ontology/monarch"    ]'],['0.0'],['0.0']
+134,['When was the Battle of Gettysburg?'],["['http://dbpedia.org/ontology/date']"],[],,
+135,['Which river does the Brooklyn Bridge cross?'],["['http://dbpedia.org/ontology/crosses']"],[' [        "http://dbpedia.org/ontology/crosses"    ]'],['1.0'],['1.0']
+136,['What is the highest mountain in Australia?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/locatedInArea', 'http://dbpedia.org/ontology/elevation']""]",[' [        "http://dbpedia.org/property/countryTs"    ]'],['0.0'],['0.0']
+137,['Give me all soccer clubs in Spain.'],[],[],,
+138,['What is the official language of Suriname?'],["['http://dbpedia.org/ontology/officialLanguage']"],[' [        "http://dbpedia.org/property/locationCountry"    ]'],['0.0'],['0.0']
+139,['Who is the mayor of Tel Aviv?'],["['http://dbpedia.org/ontology/leaderName']"],[' [        "http://dbpedia.org/ontology/residence"    ]'],['0.0'],['0.0']
+140,['Who designed the Brooklyn Bridge?'],["['http://dbpedia.org/ontology/architect']"],[' [        "http://dbpedia.org/property/wordnet_type"    ]'],['0.0'],['0.0']
+141,['Which telecommunications organizations are located in Belgium?'],[],[],,
+142,['Is Frank Herbert still alive?'],[],[],,
+143,['What is the highest place of the Urals?'],["['http://dbpedia.org/property/highest']"],[' [        "http://dbpedia.org/ontology/country"    ]'],['0.0'],['0.0']
+144,['Who is the editor of Forbes?'],["['http://dbpedia.org/ontology/editor']"],[' [        "http://dbpedia.org/property/editor"    ]'],['0.5'],['1.0']
+145,['Give me all companies in the advertising industry.'],[],[],,
+146,['How many countries are there in Europe?'],["['http://www.w3.org/1999/02/22-rdf-syntax-ns#type']"],[],,
+147,['What did Bruce Carver die from?'],["['http://dbpedia.org/ontology/deathCause']"],[' [        "http://dbpedia.org/ontology/creator"    ]'],['0.0'],['0.0']
+148,['Give me all libraries established earlier than 1400.'],[],[],,
+149,['Which presidents were born in 1945?'],[],[],,
+150,['Give me all federal chancellors of Germany.'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/office', 'http://dbpedia.org/property/ofice']""]",[],,
+151,['Who was the wife of U.S. president Lincoln?'],["['http://dbpedia.org/ontology/spouse']"],[' [        "http://dbpedia.org/ontology/president"    ]'],['0.0'],['0.0']
+152,['Who developed the video game World of Warcraft?'],["['http://dbpedia.org/ontology/developer']"],[' [        "http://dbpedia.org/ontology/developer"    ]'],['1.0'],['1.0']
+153,['What is the official website of Tom Cruise?'],["['http://dbpedia.org/property/website']"],[],,
+154,['List all episodes of the first season of the HBO television series The Sopranos.'],"[""['http://dbpedia.org/ontology/series', 'http://dbpedia.org/ontology/seasonNumber']""]",[' [        "http://dbpedia.org/ontology/series"    ]'],['1.0'],['1.0']
+155,['Who produced the most films?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/producer']""]",[],,
+156,['Give me all people with first name Jimmy.'],[],[],,
+157,['In which city did John F. Kennedy die?'],"[""['http://dbpedia.org/ontology/deathPlace', 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type']""]",[' [        "http://dbpedia.org/ontology/city"    ]'],['0.0'],['0.0']
+158,['Is there a video game called Battle Chess?'],[],[],,
+159,['Which mountains are higher than the Nanga Parbat?'],[],[],,
+160,['Who created Wikipedia?'],["['http://dbpedia.org/ontology/author']"],[' [        "http://dbpedia.org/ontology/author"    ]'],['1.0'],['1.0']
+161,['Give me all actors starring in Last Action Hero.'],["['http://dbpedia.org/ontology/starring']"],[' [        "http://dbpedia.org/ontology/starring"    ]'],['1.0'],['1.0']
+162,['Which software has been developed by organizations founded in California?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/developer', 'http://dbpedia.org/ontology/foundationPlace']""]",[' [        "http://dbpedia.org/ontology/occupation"    ]'],['0.0'],['0.0']
+163,['Which companies work in the aerospace industry as well as in medicine?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/industry', 'http://dbpedia.org/ontology/industry']""]","[' [        ""http://dbpedia.org/property/industry"",         ""http://dbpedia.org/ontology/industry""    ]']",['1.0'],['1.0']
+164,['Is Christian Bale starring in Velvet Goldmine?'],["['http://dbpedia.org/ontology/starring']"],[' [        "http://dbpedia.org/ontology/starring"    ]'],['1.0'],['1.0']
+165,['Give me the websites of companies with more than 500000 employees.'],[],[],,
+166,['Which actors were born in Germany?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/birthPlace', 'http://dbpedia.org/ontology/birthPlace', 'http://dbpedia.org/ontology/country']""]","[' [        ""http://dbpedia.org/ontology/occupation"",         ""http://dbpedia.org/ontology/award"",         ""http://dbpedia.org/ontology/spouse""    ]']",['0.0'],['0.0']
+167,['Which caves have more than 3 entrances?'],[],[],,
+168,['Was the wife of president Lincoln called Mary?'],[],[],,
+169,['Give me all films produced by Hal Roach.'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/producer']""]",[' [        "http://dbpedia.org/ontology/director"    ]'],['0.0'],['0.0']
+170,['Give me all video games published by Mean Hamster Software.'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/publisher']""]",[' [        "http://dbpedia.org/ontology/publisher"    ]'],['1.0'],['1.0']
+171,['Which languages are spoken in Estonia?'],["['http://dbpedia.org/ontology/spokenIn']"],[' [        "http://dbpedia.org/ontology/language"    ]'],['0.0'],['0.0']
+172,['How many Aldi stores are there?'],["['http://dbpedia.org/ontology/numberOfLocations']"],[' [        "http://dbpedia.org/ontology/type"    ]'],['0.0'],['0.0']
+173,['Which capitals in Europe were host cities of the summer olympic games?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type']""]",[],,
+175,['How many films did Hal Roach produce?'],["['http://dbpedia.org/ontology/producer']"],[' [        "http://dbpedia.org/ontology/director"    ]'],['0.0'],['0.0']
+176,['Which music albums contain the song Last Christmas?'],[],[],,
+177,['Give me all books written by Danielle Steel.'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/author']""]",[' [        "http://dbpedia.org/ontology/writer"    ]'],['0.5'],['1.0']
+178,"['Which airports are located in California, USA?']","[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/location', 'http://dbpedia.org/ontology/city', 'http://dbpedia.org/ontology/city', 'http://dbpedia.org/ontology/isPartOf', 'http://dbpedia.org/ontology/operator']""]","[' [        ""http://dbpedia.org/ontology/country"",         ""http://dbpedia.org/property/country""    ]']",['0.0'],['0.0']
+179,['Which states of Germany are governed by the Social Democratic Party?'],[],[],,
+180,['Give me all Canadian Grunge record labels.'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/genre', 'http://dbpedia.org/ontology/country']""]","[' [        ""http://dbpedia.org/property/label"",         ""http://dbpedia.org/property/artist""    ]']",['0.0'],['0.0']
+181,['Which country has the most official languages?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/property/oficialLanguages']""]",[],,
+182,['In which programming language is GIMP written?'],["['http://dbpedia.org/ontology/programmingLanguage']"],[' [        "http://dbpedia.org/ontology/programmingLanguage"    ]'],['1.0'],['1.0']
+183,['Who produced films starring Natalie Portman?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/starring', 'http://dbpedia.org/ontology/producer']""]","[' [        ""http://dbpedia.org/ontology/starring"",         ""http://dbpedia.org/ontology/producer""    ]']",['1.0'],['1.0']
+184,['Give me all movies with Tom Cruise.'],["['http://www.w3.org/1999/02/22-rdf-syntax-ns#type']"],[],,
+185,['In which films did Julia Roberts as well as Richard Gere play?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/starring', 'http://dbpedia.org/ontology/starring']""]","[' [        ""http://dbpedia.org/ontology/starring"",         ""http://dbpedia.org/ontology/producer""    ]']",['1.0'],['1.0']
+186,['Give me all female given names.'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/gender']""]",[' [        "http://purl.org/dc/terms/subject"    ]'],['0.0'],['0.0']
+187,['Who wrote the book The Pillars of the Earth?'],["['http://dbpedia.org/ontology/author']"],[' [        "http://dbpedia.org/ontology/author"    ]'],['1.0'],['1.0']
+188,['How many films did Leonardo DiCaprio star in?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/starring']""]",[' [        "http://dbpedia.org/ontology/starring"    ]'],['1.0'],['1.0']
+189,['Give me all soccer clubs in the Premier League.'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/league']""]",[' [        "http://dbpedia.org/property/league"    ]'],['0.5'],['1.0']
+190,['In which U.S. state is Mount McKinley located?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/locatedInArea']""]",[],,
+191,['When was Capcom founded?'],["['http://dbpedia.org/ontology/foundingDate']"],[],,
+192,['Which organizations were founded in 1930?'],[],[],,
+193,['What is the highest mountain?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/elevation']""]",[],,
+194,['Was Natalie Portman born in the United States?'],"[""['http://dbpedia.org/ontology/birthPlace', 'http://dbpedia.org/ontology/birthPlace', 'http://dbpedia.org/ontology/country']""]","[' [        ""http://dbpedia.org/ontology/spouse"",         ""http://dbpedia.org/property/spouse"",         ""http://dbpedia.org/ontology/occupation""    ]']",['0.0'],['0.0']
+195,['Which budget did the first movie of Zdenek Sverak have?'],[],[],,
+196,['How many big fires struck Paris during the Middle Ages?'],[],[],,
+197,['Is Pamela Anderson a vegan?'],[],[],,
+198,['How often was Michael Jordan divorced?'],[],[],,
+199,['What is the most beautiful painting?'],[],[],,
+200,['Give me all animal species that live in the Amazon rainforest.'],[''],[],,
+201,['How many inhabitants does the largest city in Canada have?'],"[""['http://dbpedia.org/ontology/largestCity', 'http://dbpedia.org/ontology/populationTotal']""]","[' [        ""http://dbpedia.org/ontology/largestCity"",         ""http://dbpedia.org/ontology/leader""    ]']",['0.5'],['0.5']
+202,['In which studio did the Beatles record their first album?'],[],[],,
+203,['Who was the first to climb Mount Everest?'],["['http://dbpedia.org/ontology/firstAscentPerson']"],[' [        "http://dbpedia.org/ontology/residence"    ]'],['0.0'],['0.0']
+204,['How many programming languages are there?'],["['http://www.w3.org/1999/02/22-rdf-syntax-ns#type']"],[],,
+205,['What is the official color of the University of Oxford?'],["['http://dbpedia.org/ontology/officialSchoolColour']"],[' [        "http://dbpedia.org/property/university"    ]'],['0.0'],['0.0']
+206,['How many gold medals did Michael Phelps win at the 2008 Olympics?'],[],[],,
+207,['To which artistic movement did the painter of The Three Dancers belong?'],"[""['http://dbpedia.org/ontology/author', 'http://dbpedia.org/ontology/movement']""]",[' [        "http://dbpedia.org/ontology/author"    ]'],['1.0'],['1.0']
+208,['Give me all animals that are extinct.'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/conservationStatus']""]",[],,
+209,["Does Abraham Lincoln's death place have a website?"],"[""['http://dbpedia.org/ontology/deathPlace', 'http://dbpedia.org/property/website']""]",[' [        "http://dbpedia.org/ontology/deathPlace"    ]'],['1.0'],['1.0']
+210,['How deep is Lake Placid?'],["['http://dbpedia.org/ontology/depth']"],[],,
+211,['Give me the grandchildren of Bruce Lee.'],"[""['http://dbpedia.org/ontology/child', 'http://dbpedia.org/ontology/child']""]","[' [        ""http://dbpedia.org/ontology/relation"",         ""http://dbpedia.org/ontology/country""    ]']",['0.0'],['0.0']
+212,['Who is the youngest Darts player?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/birthDate']""]",[],,
+213,['Where was Bach born?'],["['http://dbpedia.org/ontology/birthPlace']"],[' [        "http://dbpedia.org/ontology/birthPlace"    ]'],['1.0'],['1.0']
+214,['In which countries can you pay using the West African CFA franc?'],["['http://dbpedia.org/ontology/currency']"],[' [        "http://dbpedia.org/ontology/usingCountry"    ]'],['0.0'],['0.0']
+215,['What are the top-10 action role-playing video games according to IGN?'],"[""['http://purl.org/dc/terms/subject', 'http://dbpedia.org/property/ign']""]",[' [        "http://purl.org/dc/terms/subject"    ]'],['1.0'],['1.0']
+216,['What is the most frequent cause of death?'],["['http://dbpedia.org/ontology/deathCause']"],[],,
+217,['Does the Isar flow into a lake?'],"[""['http://dbpedia.org/ontology/inflow', 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type']""]",[' [        "http://dbpedia.org/ontology/lake"    ]'],['0.0'],['0.0']
+218,['Give me all films produced by Steven Spielberg with a budget of at least $80 million.'],[],[],,
+219,['Give me all writers that won the Nobel Prize in literature.'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/award']""]",[' [        "http://dbpedia.org/property/writer"    ]'],['0.0'],['0.0']
+220,['Give me all taikonauts.'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/nationality']""]",[' [        "http://dbpedia.org/ontology/profession"    ]'],['0.0'],['0.0']
+221,['How many pages does War and Peace have?'],["['http://dbpedia.org/ontology/numberOfPages']"],[' [        "http://dbpedia.org/property/type"    ]'],['0.0'],['0.0']
+222,['What is the bridge with the longest span?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/mainspan']""]",[],,
+223,['Give me all actors called Baldwin.'],"[""['http://xmlns.com/foaf/0.1/surname', 'http://dbpedia.org/ontology/occupation', 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type']""]",[' [        "http://dbpedia.org/ontology/child"    ]'],['0.0'],['0.0']
+224,['Who is the tallest player of the Atlanta Falcons?'],"[""['http://dbpedia.org/ontology/team', 'http://dbpedia.org/ontology/height']""]",[' [        "http://dbpedia.org/ontology/team"    ]'],['1.0'],['1.0']
+225,['Which rivers flow into a German lake?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/inflow', 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/country']""]","[' [        ""http://dbpedia.org/ontology/lake"",         ""http://dbpedia.org/ontology/country""    ]']",['0.666666666667'],['1.0']
+226,['How many James Bond movies are there?'],["['http://www.w3.org/1999/02/22-rdf-syntax-ns#type']"],[],,
+227,['Which rockets were launched from Baikonur?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/launchSite']""]",[' [        "http://dbpedia.org/ontology/launchSite"    ]'],['1.0'],['1.0']
+228,['Which pope succeeded John Paul II?'],["['http://dbpedia.org/property/sucesor']"],[],,
+229,['Give me all Dutch parties.'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/country']""]",[' [        "http://dbpedia.org/property/maleIndividualChampionTeam"    ]'],['0.5'],['1.0']
+230,['When is Halloween?'],["['http://dbpedia.org/property/date']"],[' [        "http://dbpedia.org/property/date"    ]'],['1.0'],['1.0']
+231,['Give me all Swedish oceanographers.'],"[""['http://dbpedia.org/ontology/field', 'http://dbpedia.org/ontology/birthPlace']""]","[' [        ""http://purl.org/dc/terms/subject"",         ""http://dbpedia.org/ontology/language""    ]']",['0.0'],['0.0']
+232,['Give me all actors who were born in Berlin.'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/birthPlace']""]",[' [        "http://dbpedia.org/ontology/predecessor"    ]'],['0.0'],['0.0']
+233,['What was the last movie with Alec Guinness?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/starring', 'http://dbpedia.org/ontology/releaseDate']""]",[' [        "http://dbpedia.org/property/spouse"    ]'],['0.0'],['0.0']
+234,['Which poet wrote the most books?'],"[""['http://dbpedia.org/ontology/occupation', 'http://dbpedia.org/ontology/author', 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type']""]",[' [        "http://dbpedia.org/property/occupation"    ]'],['0.5'],['1.0']
+235,['How many languages are spoken in Colombia?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/language']""]",[' [        "http://dbpedia.org/property/state"    ]'],['0.5'],['1.0']
+236,['What does IYCM stand for?'],["['http://dbpedia.org/ontology/abbreviation']"],[],,
+237,["What was Brazil's lowest rank in the FIFA World Ranking?"],["['http://dbpedia.org/property/fifaMin']"],[' [        "http://dbpedia.org/ontology/stateOfOriginTeam"    ]'],['0.0'],['0.0']
+238,['Give me the capitals of all countries that the Himalayas run through.'],"[""['http://dbpedia.org/property/country', 'http://dbpedia.org/ontology/capital']""]",[],,
+239,['Which actor played Chewbacca?'],["['http://dbpedia.org/property/portrayer']"],[],,
+240,['Which ingredients do I need for carrot cake?'],["['http://dbpedia.org/ontology/ingredient']"],[' [        "http://dbpedia.org/ontology/ingredientName"    ]'],['0.0'],['0.0']
+241,['Is Cola a beverage?'],["['http://www.w3.org/1999/02/22-rdf-syntax-ns#type']"],[],,
+242,['Who has Tom Cruise been married to?'],["['http://dbpedia.org/ontology/spouse']"],[],,
+243,["Which of Tim Burton's films had the highest budget?"],"[""['http://dbpedia.org/ontology/director', 'http://dbpedia.org/ontology/budget']""]",[' [        "http://dbpedia.org/ontology/director"    ]'],['1.0'],['1.0']
+244,["How heavy is Jupiter's lightest moon?"],"[""['http://dbpedia.org/property/sateliteOf', 'http://dbpedia.org/ontology/mas']""]",[],,
+245,['Which actor was casted in the most movies?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/starring']""]",[],,
+246,['Is James Bond married?'],["['http://dbpedia.org/ontology/spouse']"],[],,
+247,['Give me all Australian metalcore bands.'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/genre', 'http://dbpedia.org/ontology/hometown', 'http://dbpedia.org/ontology/hometown', 'http://dbpedia.org/ontology/country']""]","[' [        ""http://dbpedia.org/property/asianPlaceQ"",         ""http://dbpedia.org/ontology/wikiPageRedirects""    ]']",['0.0'],['0.0']
+248,['Give me all actors who were born in Paris after 1950.'],[],[],,
+249,['When was Carlo Giuliani shot?'],["['http://dbpedia.org/property/dateOfDeath']"],[],,
+250,['Who are the four youngest MVP basketball players?'],[],[],,
+251,['Which companies have more than 1 million employees?'],[],[],,
+252,['Give all swimmers that were born in Moscow.'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/birthPlace']""]",[' [        "http://dbpedia.org/ontology/country"    ]'],['0.0'],['0.0']
+253,['Who was called Rodzilla?'],[],[],,
+254,['Show me the book that Muhammad Ali wrote.'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/author']""]",[' [        "http://dbpedia.org/ontology/child"    ]'],['0.0'],['0.0']
+255,['How many museums does Paris have?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/location']""]",[],,
+256,['Which city has the most inhabitants?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/populationTotal']""]",[],,
+257,['Which city has the least inhabitants?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/populationTotal']""]",[],,
+258,['Give me all the TV shows with Neil Patrick Harris.'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/starring']""]",[' [        "http://dbpedia.org/ontology/occupation"    ]'],['0.0'],['0.0']
+259,['Who wrote The Hunger Games?'],["['http://dbpedia.org/ontology/author']"],[],,
+260,['Show a list of soccer clubs that play in the Bundesliga.'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/league']""]",[' [        "http://dbpedia.org/ontology/country"    ]'],['0.0'],['0.0']
+261,['What country is Mount Everest in?'],"[""['http://dbpedia.org/ontology/locatedInArea', 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type']""]",[' [        "http://dbpedia.org/ontology/country"    ]'],['0.0'],['0.0']
+262,['Who is the founder of Penguin Books?'],["['http://dbpedia.org/ontology/founder']"],[' [        "http://dbpedia.org/ontology/founder"    ]'],['1.0'],['1.0']
+263,['Which programming languages influenced Javascript?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/influenced']""]",[' [        "http://dbpedia.org/ontology/influenced"    ]'],['1.0'],['1.0']
+264,['Did Che Guevara have children?'],["['http://dbpedia.org/ontology/child']"],[' [        "http://dbpedia.org/ontology/child"    ]'],['1.0'],['1.0']
+265,['List all the musicals with music by Elton John.'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/musicBy']""]",[' [        "http://dbpedia.org/property/music"    ]'],['0.5'],['1.0']
+266,['Show me all the breweries in Australia.'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/location', 'http://dbpedia.org/ontology/location', 'http://dbpedia.org/ontology/country']""]",[' [        "http://dbpedia.org/property/countryTs"    ]'],['0.0'],['0.0']
+267,['When was the Titanic completed?'],["['http://dbpedia.org/ontology/completionDate']"],[' [        "http://dbpedia.org/ontology/completionDate"    ]'],['1.0'],['1.0']
+268,['How much did Pulp Fiction cost?'],["['http://dbpedia.org/ontology/budget']"],[' [        "http://dbpedia.org/property/country"    ]'],['0.0'],['0.0']
+269,['How many airlines are there?'],["['http://www.w3.org/1999/02/22-rdf-syntax-ns#type']"],[],,
+270,['Who played Agent Smith in Matrix?'],["['http://dbpedia.org/property/portrayer']"],[],,
+271,['How much carbs does peanut butter have?'],["['http://dbpedia.org/property/carbs']"],[' [        "http://dbpedia.org/property/carbs"    ]'],['1.0'],['1.0']
+272,['Which book has the most pages?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/numberOfPages']""]",[],,
+273,['Which bridges cross the Seine?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/crosses']""]",[' [        "http://dbpedia.org/ontology/crosses"    ]'],['1.0'],['1.0']
+274,['Who is the mayor of the capital of French Polynesia?'],"[""['http://dbpedia.org/ontology/capital', 'http://dbpedia.org/ontology/mayor']""]",[' [        "http://dbpedia.org/ontology/capital"    ]'],['1.0'],['1.0']
+275,["When did Dracula's creator die?"],"[""['http://dbpedia.org/ontology/creator', 'http://dbpedia.org/ontology/deathDate']""]",[' [        "http://dbpedia.org/ontology/creator"    ]'],['1.0'],['1.0']
+276,['What is the location of the Houses of Parliament?'],["['http://dbpedia.org/ontology/location']"],[' [        "http://dbpedia.org/ontology/parliament"    ]'],['0.0'],['0.0']
+277,['Show me all English Gothic buildings in Kent.'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/architecturalStyle', 'http://dbpedia.org/ontology/location']""]","[' [        ""http://dbpedia.org/property/location"",         ""http://dbpedia.org/ontology/location""    ]']",['0.5'],['0.5']
+278,['Who was the pope that founded the Vatican Television?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/foundedBy']""]",[' [        "http://dbpedia.org/ontology/leader"    ]'],['0.0'],['0.0']
+279,['What airlines are part of the SkyTeam alliance?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/property/aliance', 'http://dbpedia.org/ontology/Alliance']""]",[],,
+280,"['What is the total population of Melbourne, Florida?']",["['http://dbpedia.org/ontology/populationTotal']"],[' [        "http://dbpedia.org/ontology/population"    ]'],['0.0'],['0.0']
+281,['Which airports does Air China serve?'],["['http://dbpedia.org/ontology/targetAirport']"],[' [        "http://dbpedia.org/ontology/targetAirport"    ]'],['1.0'],['1.0']
+282,['In which year was Rachel Stevens born?'],["['http://dbpedia.org/ontology/birthYear']"],[' [        "http://dbpedia.org/property/spouse"    ]'],['0.0'],['0.0']
+283,['Where was JFK assassinated?'],["['http://dbpedia.org/ontology/deathPlace']"],[' [        "http://dbpedia.org/ontology/successor"    ]'],['0.0'],['0.0']
+284,['How many politicians graduated from Columbia University?'],"[""['http://dbpedia.org/ontology/profession', 'http://dbpedia.org/ontology/almaMater']""]","[' [        ""http://dbpedia.org/ontology/university"",         ""http://dbpedia.org/ontology/president""    ]']",['0.0'],['0.0']
+285,['Which scientist is known for the Manhattan Project and the Nobel Peace Prize?'],"[""['http://dbpedia.org/ontology/knownFor', 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/knownFor']""]","[' [        ""http://dbpedia.org/ontology/knownFor"",         ""http://dbpedia.org/ontology/notableCommander""    ]']",['1.0'],['1.0']
+286,['What is the highest volcano in Africa?'],"[""['http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/locatedInArea', 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'http://dbpedia.org/ontology/elevation']""]",[],,
+287,['Which beer originated in Ireland?'],[],[],,
+288,['What are the specialities of the UNC Health Care?'],["['http://dbpedia.org/property/speciality']"],[' [        "http://dbpedia.org/property/healthcare"    ]'],['0.5'],['1.0']
+289,['Who is the owner of Facebook?'],["['http://dbpedia.org/ontology/foundedBy']"],[' [        "http://dbpedia.org/property/owner"    ]'],['0.0'],['0.0']
+290,['From which region is the Melon de Bourgogne?'],["['http://dbpedia.org/ontology/wineRegion']"],[' [        "http://dbpedia.org/ontology/wineRegion"    ]'],['1.0'],['1.0']
+291,['Who was influenced by Socrates?'],["['http://dbpedia.org/ontology/influencedBy']"],[' [        "http://dbpedia.org/ontology/influenced"    ]'],['0.5'],['1.0']
+292,['Who was president of Pakistan in 1978?'],"[""['http://dbpedia.org/property/title', 'http://dbpedia.org/property/years']""]",[' [        "http://dbpedia.org/property/residence"    ]'],['0.0'],['0.0']
+293,['Give me English actors starring in Lovesick.'],"[""['http://dbpedia.org/ontology/starring', 'http://dbpedia.org/ontology/birthPlace', 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type']""]",[' [        "http://dbpedia.org/property/wordnet_type"    ]'],['0.0'],['0.0']
+294,['Give me all types of eating disorders.'],["['http://www.w3.org/1999/02/22-rdf-syntax-ns#type']"],[],,
+295,['Who was married to president Chirac?'],["['http://dbpedia.org/ontology/spouse']"],[' [        "http://dbpedia.org/ontology/president"    ]'],['0.5'],['1.0']
+296,['What is the largest metropolitan area in Washington state?'],["['http://dbpedia.org/property/largestmetro']"],[' [        "http://dbpedia.org/property/state"    ]'],['0.0'],['0.0']
+297,['Where in France is sparkling wine produced?'],"[""['http://dbpedia.org/ontology/wineProduced', 'http://dbpedia.org/ontology/location']""]",[' [        "http://dbpedia.org/ontology/wineProduced"    ]'],['1.0'],['1.0']
+298,['Where did Hillel Slovak die?'],["['http://dbpedia.org/ontology/deathPlace']"],[' [        "http://dbpedia.org/ontology/deathPlace"    ]'],['1.0'],['1.0']
+299,['What is the timezone in San Pedro de Atacama?'],["['http://dbpedia.org/ontology/timezone']"],[],,
+300,['In which city does the Chile Route 68 end?'],["['http://dbpedia.org/ontology/routeEnd']"],[' [        "http://dbpedia.org/ontology/routeEnd"    ]'],['1.0'],['1.0']
