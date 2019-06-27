@@ -4,20 +4,14 @@ relation linking:link relation keyword to DBpedia
 python 2.7
 
 package:
-
 numpy
 glove_python
 sklearn
-practnlptool
+practNLPTools
 textrazor
-cPickle
 distance
 nltk
-SocketServer
-urllib
-json
-re
-jpype
+JPype1
 # Run
 firstly, run main file:
 
